@@ -59,6 +59,7 @@
             android:layout_margin="15dp"
             android:fontFamily="sans-serif-condensed"
             android:text="tigerunited109@gmail.com"
+            android:textStyle="normal|italic"
             android:textSize="20sp"/>
 
     </android.support.v7.widget.CardView>
