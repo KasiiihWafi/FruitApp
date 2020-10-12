@@ -7,6 +7,17 @@
     android:orientation="vertical"
     android:gravity="center"
     tools:context=".MainActivity">
+    
+      <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Mengenal Buah dan mepelajarinya"
+        android:textSize="50sp"
+        android:textStyle="bold"
+        android:layout_marginTop="40dp"
+        android:layout_gravity="center" />
+    
+    
 
     <ImageView
         android:layout_width="250dp"
